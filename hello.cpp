@@ -7,6 +7,11 @@ int main()
 =======
     printf("hello");
 
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
     printf("world");
 }
+=======
+    printf("world");
+}
+>>>>>>> Stashed changes
